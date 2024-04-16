@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-binary-dreamers/",
+    "build": "vite build --base=/106_html-css_Siriulas/",
     "preview": "vite preview"
   },
   "devDependencies": {
